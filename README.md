@@ -90,7 +90,7 @@ Let’s connect! I’m always open to collaborations, discussions. Check out my 
 Feel free to reach out to me through via email or any of the following platforms:
 - **Email**: [bendarkar.tushar23@gmail.com](bendarkar.tushar23@gmail.com)
 - **LinkedIn**: [Tushar Bendarkar](www.linkedin.com/in/tushar-bendarkar-74748b196)
-- **GitHub**: [Ravjot Singh](https://github.com/iamtushaar)
+- **GitHub**: [Tushar Bendarkar](https://github.com/iamtushaar)
 
 ---
 **Thank you for visiting my GitHub!** 😄
