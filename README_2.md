@@ -9,6 +9,11 @@ I'm an **Azure Data Engineer** with expertise in **Azure Data Factory, Azure Dat
 
 ## About Me 🤖
 
+As a Data Engineer with over two years of experience, I specialize in designing, developing, and optimizing scalable data solutions. My expertise lies in ETL development, data warehousing, and cloud technologies, particularly Microsoft Azure. I have successfully built and maintained end-to-end data pipelines, ensuring seamless data ingestion, transformation, and integration for business insights. 
+
+Proficient in Python, SQL, Apache Spark, and Azure Data Factory, I focus on enhancing data performance, reliability, and scalability. My role involves troubleshooting complex data issues, and implementing efficient data governance practices. 
+
+Passionate about leveraging data-driven solutions to empower businesses, I continuously explore emerging technologies to stay ahead in the evolving data engineering landscape.
 
 Let’s connect! I’m always open to collaborations, discussions. Check out my GitHub for my latest work, or reach out via [LinkedIn](www.linkedin.com/in/tushar-bendarkar-74748b196) or via email [bendarkar.tushar23@gmail.com](bendarkar.tushar23@gmail.com).
 
@@ -64,15 +69,14 @@ Let’s connect! I’m always open to collaborations, discussions. Check out my 
   
   <tr>
     <td><b>NYC Taxi Data ADE Project</b></td>
-    <td>This project presents the design and implementation of a personalized news aggregator built using multi-modal AI techniques. The system collects news articles, generates summaries using language models, and performs sentiment analysis to deliver relevant and customized content to users. The agent leverages state-of-the-art AI models and frameworks, demonstrating how intelligent automation can be applied to enhance user experiences.</td>
+    <td>Developed a fully automated data pipeline for processing NYC Taxi data leveraging Azure cloud technologies.</td>
     <td>Azure Data Factory, Azure Databricks, PySpark, SQL</td>
     <td><a href="https://github.com/iamtushaar/NYC_Taxi_Data_ADE_Project">Project</a></td>
   </tr>
   
   <tr>
     <td><b>Adventure_Works_ADE_Project</b></td>
-    <td>This project showcases an AI-Powered Text Generator built using Flask, the Google Gemini model, and the LangChain framework. The app allows users to input text and receive AI-generated content instantly, providing a powerful tool for content creators and innovators in the AI space.
-    </td>
+    <td>Developed a fully automated data pipeline for processing Adventure Works data leveraging Azure cloud technologies.</td>
     <td>Azure Data Factory, Azure Databricks, PySpark, SQL</td>
     <td><a href="https://github.com/iamtushaar/Adventure_Works_ADE_Project">Project</a></td>
   </tr>
@@ -86,7 +90,7 @@ Let’s connect! I’m always open to collaborations, discussions. Check out my 
 Feel free to reach out to me through via email or any of the following platforms:
 - **Email**: [bendarkar.tushar23@gmail.com](bendarkar.tushar23@gmail.com)
 - **LinkedIn**: [Tushar Bendarkar](www.linkedin.com/in/tushar-bendarkar-74748b196)
-- **GitHub**: [Tushar Bendarkar]([https://github.com/Ravjot03](https://github.com/iamtushaar/))
+- **GitHub**: [Tushar Bendarkar]([https://github.com/iamtushaar])
 
 ---
 **Thank you for visiting my GitHub!** 😄
