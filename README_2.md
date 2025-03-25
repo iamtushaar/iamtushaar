@@ -1,11 +1,9 @@
-# Hello, I'm Ravjot Singh 👋
+# Hello, I'm Tushar Bendarkar 👋
 
-I'm a **Data Scientist** with expertise in **Machine Learning, NLP, Generative AI, and Large Language Models**. Currently, I'm pursuing my **Master’s in Data Analytics** at **San Jose State University**. I'm passionate about solving complex problems using data and creating impactful solutions for the future.
+I'm an **Azure Data Engineer** with expertise in **Azure Data Factory, Azure Databricks, Azure Synapse, Python, PySpark and SQL**. 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravjot03/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravjot03)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ravjot03.medium.com/)
-[![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/ravjot313)
+[![LinkedIn](www.linkedin.com/in/tushar-bendarkar-74748b196)
+[![GitHub]()
 
 
 ---
@@ -164,16 +162,13 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
 ## 📣 Let's Connect
 
 Feel free to reach out to me through via email or any of the following platforms:
-- **Email**: [ravjot313@gmail.com](ravjot313@gmail.com)
-- **LinkedIn**: [Ravjot Singh](https://www.linkedin.com/in/ravjot03/)
+- **Email**: [bendarkar.tushar23@gmail.com](bendarkar.tushar23@gmail.com)
+- **LinkedIn**: [Tushar Bendarkar](www.linkedin.com/in/tushar-bendarkar-74748b196)
 - **GitHub**: [Ravjot Singh](https://github.com/Ravjot03)
-- **Medium**: [Ravjot's Blog](https://ravjot03.medium.com/)
 
 ---
 
 ## 📌 Profile Views
-
-![Profile views](https://komarev.com/ghpvc/?username=RavjotSingh&color=brightgreen)
 
 ---
 
