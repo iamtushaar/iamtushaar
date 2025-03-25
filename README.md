@@ -1,6 +1,6 @@
 # Hello, I'm Tushar Bendarkar 👋
 
-**I am a passionate Data Engineer with over 3 years of experience turning raw data into meaningful insights. I work with modern tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient data pipelines and solutions in the cloud. I’m also a Databricks Certified Spark Developer and a Microsoft Certified Azure Data Engineer. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.**. 
+**I am a passionate Data Engineer with over 3 years of experience turning raw data into meaningful insights. I work with modern tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient data pipelines and solutions in the cloud. I’m also a Microsoft Certified Azure Data Engineer. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.**. 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-bendarkar-74748b196/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamtushaar)
