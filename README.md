@@ -54,6 +54,8 @@ Let’s connect! I’m always open to collaborations, discussions. Check out my 
 
 ## 📚 Projects
 
+
+
 <table>
   <tr>
     <th>Project Name</th>
@@ -61,25 +63,32 @@ Let’s connect! I’m always open to collaborations, discussions. Check out my 
     <th>Languages/ Tools Used</th>
     <th>Repository Link</th>
   </tr>
+
+  <tr>
+    <td><b>Healthcare Revenue Cycle Management Azure Data Engineering Project</b></td>
+    <td> This project is a data engineering solution built on Microsoft Azure, focused on processing Healthcare Revenue Cycle data using the Medallion Architecture (Bronze, Silver and Gold layers). It automates data workflows to provide scalable and efficient processing from raw data to analytics-ready insights. </td>
+    <td>Azure Data Factory, Azure Databricks, Azure SQL DB, Azure DataLake Storage Gen2, Azure Key Vault, PySpark, SQL</td>
+    <td><a href="https://github.com/iamtushaar/HealthcareRCM_ADE_Project">Project</a></td>
+  </tr>
   
   <tr>
     <td><b>Car Sales Azure Data Engineering Project</b></td>
     <td> This project is a data engineering solution built on Microsoft Azure, focused on processing car sales data using the Medallion Architecture (Raw, Curated, and Refined layers). It automates data workflows to provide scalable and efficient processing from raw data to analytics-ready insights. </td>
-    <td>Azure Data Factory, Azure Databricks, PySpark, SQL</td>
+    <td>Azure Data Factory, Azure Databricks, DeltaLake, Azure SQL DB, Azure DataLake Storage Gen2, PySpark, SQL</td>
     <td><a href="https://github.com/iamtushaar/CAR_SALES_ADE_Project">Project</a></td>
   </tr>
   
   <tr>
     <td><b>NYC Taxi Data ADE Project</b></td>
     <td>Developed a fully automated data pipeline for processing NYC Taxi data leveraging Azure cloud technologies.</td>
-    <td>Azure Data Factory, Azure Databricks, PySpark, SQL</td>
+    <td>Azure Data Factory, Azure Databricks, DeltaLake, Azure DataLake Storage Gen2,PySpark, SQL</td>
     <td><a href="https://github.com/iamtushaar/NYC_Taxi_Data_ADE_Project">Project</a></td>
   </tr>
   
   <tr>
     <td><b>Adventure_Works_ADE_Project</b></td>
     <td>Developed a fully automated data pipeline for processing Adventure Works data leveraging Azure cloud technologies.</td>
-    <td>Azure Data Factory, Azure Databricks, PySpark, SQL</td>
+    <td>Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Azure DataLake Storage Gen2, PySpark, SQL</td>
     <td><a href="https://github.com/iamtushaar/Adventure_Works_ADE_Project">Project</a></td>
   </tr>
 
